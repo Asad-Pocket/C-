@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes", "Classes\Classes.csproj", "{C6ED0310-2F14-4E41-8690-ACFC26DA1908}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam_1_Devskill", "Exam_1_Devskill\Exam_1_Devskill.csproj", "{0EE92520-736E-4A68-BC7A-F34B0F3D5027}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6ED0310-2F14-4E41-8690-ACFC26DA1908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6ED0310-2F14-4E41-8690-ACFC26DA1908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6ED0310-2F14-4E41-8690-ACFC26DA1908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6ED0310-2F14-4E41-8690-ACFC26DA1908}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EE92520-736E-4A68-BC7A-F34B0F3D5027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE92520-736E-4A68-BC7A-F34B0F3D5027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE92520-736E-4A68-BC7A-F34B0F3D5027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE92520-736E-4A68-BC7A-F34B0F3D5027}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5BB48C9-2BD0-4FD6-8B2F-EFD8C288A1E7}
+	EndGlobalSection
+EndGlobal
